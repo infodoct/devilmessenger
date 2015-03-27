@@ -1,0 +1,15 @@
+199		Deconnexion			CS
+101		NuméroPort			SC
+102		Authentification	CS
+103		Authentifié			SC
+104		OK					SC
+105		FriendConnected		SC
+106		FriendDisConnected	SC
+107		TextMessage			CS
+108		BeginSendUserList	SC
+109		ConnectedUser		SC
+110		EndSendUserList		SC
+111		OK					CS
+112		AlreadyConnected	SC
+113		TextMessage 		SC
+114		ConnectionRefused	SC
